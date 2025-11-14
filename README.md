@@ -1,2 +1,2 @@
 # Patrimar-CRM
-Esto es un CRM hecho para la empresa Patrimar, esta hecha con una API desarrollada en PHP y sus controladores y vistas tambien desarrolladas en PHP
+This is a CRM made for the company Patrimar. It is built with an API developed in PHP, and its controllers and views are also developed in PHP.
