@@ -1,0 +1,23 @@
+.title {
+    margin-top: 3%;
+    margin-bottom: 7%;
+}
+
+.btn-custom {
+    color: white;
+    background: linear-gradient(rgb(87, 87, 87), #1E1E2E);
+    margin-top: 2%;
+    margin-bottom: 5%;
+}
+
+.btn-custom:hover{
+    color: white;
+}
+
+.card-sesion {
+    background: linear-gradient(rgb(188, 188, 255), rgb(65, 65, 96));
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    border-radius: 3%;
+    box-shadow: 1px 1px 90px 1px rgb(82, 82, 82);
+}

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "monospacePersonal";
+    src: url("../fonts/MONOSPACE821BT.TTF") format("truetype");
+}
+
+body {
+    background-color: #1e1e2e;
+    height: 100vh;
+    margin: 0;
+    font-family: 'monospacePersonal';
+    color: white;
+}
